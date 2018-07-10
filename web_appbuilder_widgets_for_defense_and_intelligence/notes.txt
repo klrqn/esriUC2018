@@ -1,0 +1,29 @@
+11:15 to 12:00
+Tuesday in the Expo
+Mic Problems.
+
+what is we appbuilder for arcgis
+    -html/javascript apps
+    -ready to use or custom widgets
+    -hosted online on your own service
+    -run on any device
+    -WYSIWYG
+    -build/customize without writing code
+    
+Widgets for Defense and Intelligence
+    -Coordinate Conversion
+    -Distance and Direction
+    -Emergency Response Guide (ERG)
+    -Grid Overlay
+    -Gridded Reference Graphic
+    -Visibilitiy
+    
+walkthrough of web app builder:
+few different ways to get to it. Portal our ArcGIS Online
+"create" -> using a webappbuilder
+choose theme
+choose map
+add widget
+
+arcgisfordefense.maps.arcgiz.com/apps/webappviewer/index.html?id=24facbfdf7e24b55ac593fdc5b82554c2
+
