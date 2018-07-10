@@ -1,0 +1,35 @@
+
+charlene.s.sylvester@usace.army.mil - NCMP OPERATIONS - (228)252-1115
+
+Rapid response mapping and gis products (within 5 days!)
+
+Army Corp of Engineers and FEMA fund the rapid response mapping
+
+Rapid response GIS Products: 
+    LAS v1.2 Point Clouds
+    5-cm Imagery Mosaic - 4-band (r, g, b, nir)
+    1-m  digital surface models (DEM Raster data - promote ease of use and re-use by scientists and engineers)
+        DEM bare earth
+        0-m shoreline vector - elevation-basedd shoreline contour using the vertical datum navd88 (geoid12b)
+        
+FINAL PRODUCT:  
+    Rapid Response GIS Product - Volume change maps - PDF Webmap, ported from matlab to python
+    produced with JALBTCX volume change toolbox
+    
+    GET THE DATA
+https://coast.noaa.gov/dataviewer/
+https://griduc.rsgis.erdc.dren.mil/griduc/corpsmap/
+    
+    jalbtcx content serach and discovery:
+    https://arcg.is/qe0Sz
+    ..... one other
+    
+uses of JALBTCX rapid response gis products
+    quantify project impacts
+        beaches, navigation channels/structs, upland placement, eco restoration
+    quantify regional impacts
+    calculate volume ...
+    
+ALL DATA PUBLICLY AVAILABLE
+
+== accidentally deleted presentation 2 bah ==
