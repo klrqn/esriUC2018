@@ -1,0 +1,95 @@
+SDSFIE-V at version 4.0 until all components have migrated data to it
+the IGG SOP (standard operating procedure) is in place
+
+DoDI 8130.01 requirements for Authoritative Data Sources (ADS) and data handling guidance are 'works in progress'
+
+IGI&S systems of record are moving to COTS solutions in a secure cloud environment
+
+As IGI&S matures - DATA QUALITY - becomes a big issue
+
+IGI&S is becoming an authoritative data source. 
+
+Fiscal Year 2017 CIP Data Call -
+Annual data call synced with Real Property Inventory (end of fiscal year)
+
+ANG was terrible in terms of data quality 2017
+=== how to fix ===
+= Implement SDSFIE-V 4.0
+    - Improved definitions, attributes
+    - data  can be cleansed during migration from 3.0/3.1 models
+= Implement SDSFIE-M 2.0
+    - Every piece of data needs metadata
+    - Version 2.0 includes data quality metrics
+= Leverage annual CIP requirement to drive fixes.
+
+Metadata - the foundation of VAUTI
+accessible, visible, understandable, trusted, interoperable
+
+DISDI Portal - https://www.acq.osd.mil/eie/BSI/BEI_DISDI.html
+             - https://disdiportal.osd.mil/
+             
+            - New WEb Map Viewer - DISDI Atlas
+            
+useful public links???
+
+
+
+
+DoDI 8320.2
+
+"information dominance"
+
+LIBERTARIAN PATERNALISM
+- both terms are currently unpopular, and seemingly contradictory
+- neither concept should be controversial
+- Libertarian - protect the individual's right to choose
+- Paternalism - do what you can to improve the welfare of people
+
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+IGI&S Authoritative Data Source (ADS) 
+Why Each Installation Needds One
+The ADS must provide mechanisms to make data visible, accessible, understandable, trusted, and interoperable.
+==========================
+Fac Man, Emergency Planinng and Response, Range Management, Force Protection and Security, Env Management, Energy Management, Master Planning
+==========================
+The ADS is intended to be the "Geospatial Library" for each Installation.
+    - Contents are curated
+    - Contents are catalogued
+    - The Librarian is the ADS Manager
+    - Libraries contain English language materials - SDSFIE is the language for the IGI&S
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+
+
+=====================================================    GLOSSARY    =====================================================
+
+
+IGI&S           -       Installation Geospatial Information and Services
+
+DoDI 8130.01    -       This instruction establishes policy, assigns responsibilities, and provides governance procedures for IGI&S
+
+GEOINT          -       In the United States, Geospatial intelligence, GEOINT (GEOspatial INTelligence) is intelligence about the human activity 
+                        on earth derived from the exploitation and analysis of imagery and geospatial information that describes, assesses, and 
+                        visually depicts physical features and geographically referenced activities on the Earth. GEOINT, as defined in US Code, 
+                        consists of imagery, imagery intelligence (IMINT) and geospatial information.
+                        
+IGG             -       IGI&S Governance Group
+
+SDSFIE          -       https://www.sdsfieonline.org/Home/Index
+                -       The Spatial Data Standards for Facilities, Infrastructure, and Environment
+                
+DISDI           -       Defense Installation Spatial Data Infrastructure
+
+ADS             -       Authoritative Data Source
+                
+
+===============================================================================================================
+The office of the Secretary of the Defense needs IGI&S to be visible, understandable, trusted, and interaperable
+===============================================================================================================
+
+Questions -
+JRSS - file:///home/johndoe/Downloads/trip/JRSS-Fact-Sheet-April-2017.pdf
+JRSS is supposed to stop all implementation because it makes impletentation of IGI&S basically impossible.
+
+Data handling guidance - 
